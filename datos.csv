@@ -1,0 +1,13 @@
+Id,Producto,Precio,Comercio,Promoción
+1625,Parlante JVC,3550,Cetrogar,Si
+13456,Parlante JVC,5600,Fravega,No
+13457,Auriculares JVC,1200,Fravega,No
+3,Monitor Samsung,12000,CompuMundo,Si
+5,Parlante JVC,3500,CompuMundo,Si
+7,Parlante JVC,3500,Garbarino,Si
+587,Auriculares JVC,1500,Garbarino,Si
+287,Monitor Samsung,11000,Garbarino,No
+257,Monitor LG,15000,CompuMundo,No
+258,Auriculares Samsung,1000,Fravega,No
+25,Microfono Noga,900,Garbarino,Si
+8,Parlante JVC,3550,Musimundo,No
