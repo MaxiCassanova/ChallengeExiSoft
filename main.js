@@ -1,12 +1,12 @@
 //Importaciones de modulos (Cada uno de ellos esta creado en un archivo separado, para mantener el orden en Main).
-const leerArchivo = require('./leerArchivo');
-const crearProductos = require('./productos');
-const ordenarPorPrecio = require('./ordenarPorPrecio');
-const precioMenor = require('./precioMenor');
-const precioMayor = require('./precioMayor');
-const mejoresPrecios = require('./mejoresPrecios');
-const promediarPrecios = require('./promediarPrecios');
-const cantidadProductosComercio = require('./cantidadProductosComercio');
+const leerArchivo = require('./utils/leerArchivo');
+const crearProductos = require('./utils/productos');
+const ordenarPorPrecio = require('./utils/ordenarPorPrecio');
+const precioMenor = require('./utils/precioMenor');
+const precioMayor = require('./utils/precioMayor');
+const mejoresPrecios = require('./utils/mejoresPrecios');
+const promediarPrecios = require('./utils/promediarPrecios');
+const cantidadProductosComercio = require('./utils/cantidadProductosComercio');
 
 
 //Crea un array de Productos a partir de un archivo csv.
